@@ -1,0 +1,17 @@
+# 🔴 Project 01 - Blink LED
+
+## 📌 Description
+The first Arduino project: make an LED blink on and off at 1-second intervals.  
+This project helps you understand how to control digital output pins.
+
+## 🛠 Components
+- 1 x Arduino Uno
+- 1 x LED
+- 1 x 220Ω resistor
+
+
+## ⚡ Circuit
+- Arduino Pin 5v → Resistor → LED (Anode, long leg)
+- LED Cathode (short leg) → GND
+
+
